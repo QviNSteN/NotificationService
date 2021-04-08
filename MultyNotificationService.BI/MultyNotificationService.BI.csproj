@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="6.1.0" />
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="identity-connect" Version="1.2.5" />
+    <PackageReference Include="MailKit" Version="2.10.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MultyNotificationService.Data\MultyNotificationService.Data.csproj" />
+    <ProjectReference Include="..\MultyNotificationService.General\MultyNotificationService.General.csproj" />
+  </ItemGroup>
+
+</Project>

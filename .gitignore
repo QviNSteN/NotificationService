@@ -1,0 +1,18 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/MultyNotificationService.Api/bin/Debug
+/MultyNotificationService.Api/obj
+/MultyNotificationService.BI/bin/Debug
+/MultyNotificationService.BI/obj
+/MultyNotificationService.Data/bin/Debug
+/MultyNotificationService.Data/obj
+/MultyNotificationService.General/bin/Debug
+/MultyNotificationService.General/obj
+/MultyNotificationService.Tests/obj
+/MultyNotificationService.Api/bin/Release/net5.0
+/MultyNotificationService.BI/bin/Release/net5.0
+/MultyNotificationService.Data/bin/Release/net5.0
+/MultyNotificationService.General/bin/Release/net5.0

@@ -1,0 +1,11 @@
+﻿{
+  "AuthUrl": "",
+  "GetUserInfoUrl": "",
+  "GetUserIntegrationTypesUrl": "",
+  "Token": "",
+  "ConnectionStrings": {
+    "DataBase": "",
+    "TableSession": "UsersSessions",
+    "TableToken": "TokensSessions"
+  }
+}
